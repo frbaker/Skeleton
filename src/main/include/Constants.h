@@ -48,6 +48,8 @@ constexpr double kRearRightChassisAngularOffset = std::numbers::pi / 2;
 
 // Pigeon IMU
 constexpr int kPigeonIMU = 9;
+//TODO: The vendor dependency for the Pigeon is a Beta release - will need the updated version 
+
 
 // SPARK MAX CAN IDs
 constexpr int kFrontLeftDrivingCanId = 11;
